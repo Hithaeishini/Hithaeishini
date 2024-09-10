@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hithaeishini
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Java
+- 🌱 I’m have experience in Java, Spring, Springboot, Hibernate and Microservices
 - 💞️ I’m looking to collaborate on like minded professionals
 
 
